@@ -20,8 +20,6 @@ Not chosen yet. The operating system is under MIT OR Apache-2.0.
 
 ---
 
-# MIND Core (по-русски)
-
 Сам Разум — модуль интеллекта MIND Core. Он будет работать на [MIND Core OS](https://github.com/NikolayUvarov/mind-core-os), микроядерной операционной системе на Rust с моделью capabilities, которая служит ему основой.
 
 **Состояние:** начало работы (2026-10-11). Здесь пока ничего не реализовано; следующими появятся план и первые задачи.
